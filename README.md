@@ -28,6 +28,11 @@ Soy un desarrollador con un enfoque integral: diseño interfaces amigables y fun
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![Astro](https://img.shields.io/badge/-Astro-black?style=flat-square&logo=astro)
+![HTML](https://img.shields.io/badge/-HTML-black?style=flat-square&logo=html)
+![CSS](https://img.shields.io/badge/-CSS-black?style=flat-square&logo=css)
+![Boostrap 5](https://img.shields.io/badge/-Boostrap-black?style=flat-square&logo=boostrap)
+![JAVA](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
 
 ---
 
