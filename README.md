@@ -11,9 +11,9 @@
 
 Soy un desarrollador con un enfoque integral: diseño interfaces amigables y funcionales, y desarrollo backends eficientes y escalables. Me entusiasma aprender constantemente y trabajar en proyectos desafiantes, tanto en equipo como de forma autónoma.
 
-- 💻 Actualmente trabajando como desarrollador freelance
-- 🌱 Aprendiendo tecnologías como TypeScript, NestJS y testing con Jest
-- 🎯 Objetivo: formar parte de un equipo donde pueda crecer profesionalmente y aportar valor real
+- 💻 Actualmente trabajando como Desarrollador Freelance.
+- 🌱 Aprendiendo tecnologías como Java, Python.
+- 🎯 Objetivo: formar parte de un equipo donde pueda crecer profesionalmente y aportar valor real.
 
 ---
 
