@@ -20,16 +20,14 @@ Soy un desarrollador con un enfoque integral: diseño interfaces amigables y fun
 ## 🧰 Tecnologías y herramientas
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
 ![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)
+![Laravel](https://img.shields.io/badge/-LARAVEL-black?style=flat-square&logo=laravel)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![Shopify](https://img.shields.io/badge/-Shopify-black?style=flat-square&logo=shopify)
-![WordPress](https://img.shields.io/badge/-WordPress-black?style=flat-square&logo=wordpress)
-![SASS](https://img.shields.io/badge/-SASS-black?style=flat-square&logo=sass)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma)
 
 ---
 
