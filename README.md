@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Desarrollador Full Stack</b> apasionado por crear soluciones digitales funcionales y atractivas. <br />
-  Con experiencia en tecnologías modernas como <b>React, Node.js, PHP, WordPress y Shopify</b>.
+  Con experiencia en tecnologías modernas como <b>React, Node.js, PHP, Laravel y Vue</b>.
 </p>
 
 ---
@@ -38,7 +38,7 @@ Soy un desarrollador con un enfoque integral: diseño interfaces amigables y fun
 
 ## 📌 Proyectos destacados
 
-### ☁️ [Cloudnet]([https://github.com/lucho-hd/movies-app](https://github.com/lucho-hd/cloudnet))
+### ☁️ [Cloudnet](https://github.com/lucho-hd/cloudnet)
 Aplicación web full stack acerca de alojamiento de sitios.  
 Tecnologías: **Vue.js, CSS, HTML5, JavaScript, FireBase, FireStore**.
 
